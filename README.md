@@ -42,7 +42,7 @@ Semestre: **5º semestre**
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/repositorio.git
+   git clone https://github.com/SergioLemosss/EnfermeiroCiclista
    ```
 
 2. Abra o arquivo `index.html` em seu navegador de preferência.
