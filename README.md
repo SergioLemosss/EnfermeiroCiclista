@@ -1,6 +1,6 @@
 # 🌐 Site do Enfermeiro Ciclista
 
-## [Acesse aqui o site](https://sergiolemosss.github.io/IHC-Atividade-Redesign-de-pagina-web/)
+## [Acesse aqui o site](https://sergiolemosss.github.io/EnfermeiroCiclista/)
 
 ## 🎯 Objetivo
 
